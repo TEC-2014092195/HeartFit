@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HeartFit</string>
+    <string name="profile_name">Android</string>
+    <string name="profile_email">android.studio@android.com</string>
+    <string name="profile_gender">Género</string>
+    <string name="profile_gender_male">Hombre</string>
+    <string name="profile_gender_female">Mujer</string>
+    <string name="profile_age">Edad</string>
+    <string name="profile_weight">Peso</string>
+    <string name="profile_height">Estatura</string>
+    <string name="profile_activity_level">Nivel de actividad</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
